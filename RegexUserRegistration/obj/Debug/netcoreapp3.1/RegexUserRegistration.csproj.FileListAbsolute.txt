@@ -1,0 +1,13 @@
+C:\Users\SANTANU\source\repos\RegexUserRegistration\RegexUserRegistration\bin\Debug\netcoreapp3.1\RegexUserRegistration.exe
+C:\Users\SANTANU\source\repos\RegexUserRegistration\RegexUserRegistration\bin\Debug\netcoreapp3.1\RegexUserRegistration.deps.json
+C:\Users\SANTANU\source\repos\RegexUserRegistration\RegexUserRegistration\bin\Debug\netcoreapp3.1\RegexUserRegistration.runtimeconfig.json
+C:\Users\SANTANU\source\repos\RegexUserRegistration\RegexUserRegistration\bin\Debug\netcoreapp3.1\RegexUserRegistration.runtimeconfig.dev.json
+C:\Users\SANTANU\source\repos\RegexUserRegistration\RegexUserRegistration\bin\Debug\netcoreapp3.1\RegexUserRegistration.dll
+C:\Users\SANTANU\source\repos\RegexUserRegistration\RegexUserRegistration\bin\Debug\netcoreapp3.1\RegexUserRegistration.pdb
+C:\Users\SANTANU\source\repos\RegexUserRegistration\RegexUserRegistration\obj\Debug\netcoreapp3.1\RegexUserRegistration.csprojAssemblyReference.cache
+C:\Users\SANTANU\source\repos\RegexUserRegistration\RegexUserRegistration\obj\Debug\netcoreapp3.1\RegexUserRegistration.AssemblyInfoInputs.cache
+C:\Users\SANTANU\source\repos\RegexUserRegistration\RegexUserRegistration\obj\Debug\netcoreapp3.1\RegexUserRegistration.AssemblyInfo.cs
+C:\Users\SANTANU\source\repos\RegexUserRegistration\RegexUserRegistration\obj\Debug\netcoreapp3.1\RegexUserRegistration.csproj.CoreCompileInputs.cache
+C:\Users\SANTANU\source\repos\RegexUserRegistration\RegexUserRegistration\obj\Debug\netcoreapp3.1\RegexUserRegistration.dll
+C:\Users\SANTANU\source\repos\RegexUserRegistration\RegexUserRegistration\obj\Debug\netcoreapp3.1\RegexUserRegistration.pdb
+C:\Users\SANTANU\source\repos\RegexUserRegistration\RegexUserRegistration\obj\Debug\netcoreapp3.1\RegexUserRegistration.genruntimeconfig.cache
